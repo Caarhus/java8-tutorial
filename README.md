@@ -2,7 +2,7 @@
 My background is in automation which I usually comprise to two things:
  * Automation to me is Scripting and Connectivity.
 
-I'm newer to Microsoft, but before my time here, I worked on test scripts to automate production, testing & source configuration management, as well as designed various APIs and interfaces. I'd argue Connectivity is important in software because good object oriented design allows you to extend capabilities in various ways. In terms of Java, that was my first language and the primary language of choice at my University. I have experience in Java ranging from functional interfaces, polymorphism, inheritance and general object oriented design principles. The whole phrase 'if  it looks like a duck, swims like a duck, and quacks like a duck, then it's a duck' is a good test because it helps sort of gauge how to structure designs in a way that makes sense. Low coupling and high cohesion.
+Before my time here, I worked on test scripts to automate production, testing & source configuration management, as well as designed various APIs and interfaces. I'd argue Connectivity is important in software because good object oriented design allows you to extend capabilities in various ways. In terms of Java, that was my first language and the primary language of choice at my University. I have experience in Java ranging from functional interfaces, polymorphism, inheritance and general object oriented design principles. The whole phrase 'if  it looks like a duck, swims like a duck, and quacks like a duck, then it's a duck' is a good test because it helps sort of gauge how to structure designs in a way that makes sense. Low coupling and high cohesion.
 
 Coupling
  * The measure of how a module depends on other modules
